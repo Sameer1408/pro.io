@@ -1,0 +1,76 @@
+.div1{}
+.div1img{width: 100%;position: relative;}
+.navbar1{position: fixed;top: 10px;font-weight: 500;}
+.home{margin-left: 50px}
+.nav-link1{margin-left:900px;font-weight:500}
+.nav-link2{margin-left: 20px;font-weight:500}
+.nav-link3{margin-left: 20px;font-weight:500}
+
+.name{position: relative; text-align:center;z-index: 3;bottom: 490px;color: #464646;font-family: 'Roboto', sans-serif;font-size: 60px}
+#developer{font-weight: 500;position: relative; text-align:center;z-index: 3;bottom: 490px;color: #11111a;font-family: 'Ubuntu', sans-serif;}
+.name:hover{color:white}
+#developer:hover{color: white}
+.proimg{display: block;margin: auto;width: 10%}
+h2{font-family: 'Montserrat', sans-serif;;font-weight: 600;text-align: center;padding: 20px;color: #535353}
+.respara{text-align: center;font-family: font-family: 'Ubuntu', sans-serif;font-weight:500;color: #084b57}
+.respara1{width: 50%;text-align: center;margin: auto}
+
+.wimg{margin-left: 200px;margin-top: 50px;border: 1px solid white;border-radius: 70px}
+.woimg{position: relative;bottom:  85px;left:410px;width: 5%}
+.worimg{position: relative;left: 430px;bottom:80px;width: 3%}
+.work{position: relative;top:px;}
+work1{border: 3px solid}
+.what{text-align:left}
+.para{margin-left: 130px;width: 50%}
+.wor{margin-top:30px;width: 60%}
+.do{margin-top: 50px}
+.table1{margin: auto;width: 60%}
+.table2{margin: auto;width: 50%}
+td{text-align:center}
+.html{width: 55%}
+.css{width: 25%}
+.boots{width: 39%}
+.node{width: 60%}
+.java{width: 43%}
+.jqurry{width: 35%}
+.react{width: 45%}
+.section2{}
+.helpp{text-align: center;font-weight: 500;line-height: 5}
+.helph{margin-top: 90px}
+h3{text-align: center}
+.contact{background-color: #3ea4df;margin-bottom:10px;font-weight: 300 }
+.port{text-align: center;margin: auto;}
+.v1{margin:auto;text-align: center}
+.v2{margin:auto;text-align: center}
+.tindog{position: relative;bottom: 15px}
+
+/*.contact_para{margin: auto;text-align: center;margin-top: 17px;font-weight: 500}*/
+.insta{padding:20px;}
+.gmail{padding:20px;margin-top:10px}
+.linkdin{padding:20px;margin-top:10px}
+footer{text-align: center;padding: 2px}
+#Work{margin-top: 90px}
+/*
+#contact{margin-top: 40px;margin-bottom: 10px;color: white}
+.contact_para{color: white}
+#contactme{color: grey}
+*/
+.contactpara{text-align: center;margin-top:  15px;margin-bottom: 30px;color: white}
+.footer{text-align: center;margin-top: 10px;margin-bottom: 25px}
+.condiv{background-color: #535353}
+#contactme{color:}
+
+@media (max-width:600px){
+    h2{font-size: 40px}
+    .java{width: 73%}
+    .html{width: 75%}
+.css{width: 35%}
+.boots{width: 59%}
+.node{width: 90%}
+
+.jqurry{width: 50%}
+.react{width: 65%}
+    .respara{font-size: 20px}
+    
+}
+#3ea4df
